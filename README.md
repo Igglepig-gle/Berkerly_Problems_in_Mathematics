@@ -1,1 +1,1 @@
-# Berkerly_Problems_in_Mathematics
+# Berkerly Problems in Mathematics
